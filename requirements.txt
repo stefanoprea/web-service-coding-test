@@ -1,0 +1,6 @@
+alembic
+fastapi
+pytest
+uvicorn
+requests
+sqlalchemy
