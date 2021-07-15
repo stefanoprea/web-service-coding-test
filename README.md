@@ -26,7 +26,7 @@ $ pytest
 ### 1. Create the database file
 
 ```
-$ cd src/migration
+$ cd src
 $ DATABASE_URL="sqlite:///path/to/db.sqlite" alembic upgrade head
 ```
 
